@@ -25,6 +25,7 @@ This project is a Django-based application that uses Celery and Redis to schedul
    git clone https://github.com/nayeemabee/Real-time-Joke-Dashboard-updates.git
    cd .\CeleryProject\
 2. **Build Docker image**
-    docker-compose up --build
+   ```bash
+   docker-compose up --build
 4. **Access the Application**
     navigating to http://localhost:8090 in your web browser.
